@@ -27,3 +27,13 @@ body{
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
 }
+
+::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(1 2 3 / 40%);
+  border-radius: 10px;
+}
