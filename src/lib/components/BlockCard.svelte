@@ -64,6 +64,10 @@
 </div>
 
 <style lang="scss">
+  .container{
+    display: flex;
+    flex-wrap: wrap;
+  }
   .return__img{
     width: 2rem;
     height: 2rem;
@@ -74,9 +78,6 @@
       background-image: url("/images/BlueArrow.png");
     }
   }
-  .return{
-    width: 2rem;
-  }
     .card{
       background-color: var(--content-bg);
       border-radius: 10px;
@@ -85,7 +86,7 @@
       p{
         color: var(--white-text);
         opacity: .6;
-        padding: .5rem 0;
+        padding: 1rem 0;
       }
       &:hover{
         background-color: var(--light-gray-bg);

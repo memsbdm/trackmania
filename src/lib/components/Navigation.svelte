@@ -4,7 +4,7 @@
             <li>
                 <h2>Unlimiter</h2>
                 <ul>
-                    <li><a href="/home"><img src="/images/folder.svg" alt="icône de dossier">Home</a></li>
+                    <li><a href="/"><img src="/images/folder.svg" alt="icône de dossier">Home</a></li>
                     <li><a href="/unlimiter"><img src="/images/folder.svg" alt="icône de dossier">Unlimiter</a></li>
                 </ul>
             </li>
